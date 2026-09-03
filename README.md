@@ -13,9 +13,15 @@ npm install @robert.tools/eleventy-filter-is-link
 ### 📝 Sample usage
 
 ```typescript
-import { eleventy-filter-is-link } from '@robert.tools/eleventy-filter-is-link';
+import { isLink } from '@robert.tools/eleventy-filter-is-link';
 
-eleventy-filter-is-link('hello'); // 'eleventy-filter-is-link: hello'
+isLink('hello'); // 'eleventy-filter-is-link: hello'
+```
+
+## 📜 Usage
+
+```nunjucks
+{{ link | isLink }} {# true or false #}
 ```
 
 ## 🗃️ commands
