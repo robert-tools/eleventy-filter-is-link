@@ -1,21 +1,21 @@
-# 🗂️ @robert.tools/sample
+# 🗂️ @robert.tools/eleventy-filter-is-link
 
-<description>
+null
 
 ## 📜 Usage
 
 ### 🟢 Installation
 
 ```bash
-npm install @robert.tools/sample
+npm install @robert.tools/eleventy-filter-is-link
 ```
 
 ### 📝 Sample usage
 
 ```typescript
-import { <name> } from '@robert.tools/sample';
+import { eleventy-filter-is-link } from '@robert.tools/eleventy-filter-is-link';
 
-<name>('hello'); // '<name>: hello'
+eleventy-filter-is-link('hello'); // 'eleventy-filter-is-link: hello'
 ```
 
 ## 🗃️ commands

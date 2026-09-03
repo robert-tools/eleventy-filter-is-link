@@ -1,7 +1,7 @@
 {
-    "name": "@robert.tools/sample",
-    "version": "1.1.5",
-    "description": "<description>",
+    "name": "@robert.tools/eleventy-filter-is-link",
+    "version": "1.0.0",
+    "description": "null",
     "main": "./dist/index.js",
     "types": "./dist/index.d.ts",
     "exports": {
@@ -25,20 +25,20 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/robert-tools/<name>.git"
+        "url": "git+https://github.com/robert-tools/eleventy-filter-is-link.git"
     },
     "bugs": {
-        "url": "https://github.com/robert-tools/<name>/issues"
+        "url": "https://github.com/robert-tools/eleventy-filter-is-link/issues"
     },
-    "homepage": "https://github.com/robert-tools/<name>#readme",
+    "homepage": "https://github.com/robert-tools/eleventy-filter-is-link#readme",
     "keywords": [
         "typescript",
         "node",
-        "<name>",
+        "eleventy-filter-is-link",
         "robert.tools"
     ],
-    "author": "<author>",
-    "license": "<license>",
+    "author": "Robert Willemelis",
+    "license": "MIT",
     "engines": {
         "node": ">=22"
     },
