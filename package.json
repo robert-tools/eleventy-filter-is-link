@@ -34,6 +34,8 @@
     "keywords": [
         "typescript",
         "node",
+        "filter",
+        "eleventy-filter",
         "eleventy-filter-is-link",
         "robert.tools"
     ],
